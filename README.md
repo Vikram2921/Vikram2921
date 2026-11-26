@@ -90,6 +90,8 @@ architect:
 
 ## 04 / Selected projects
 
+<sub>Live repository metrics · Downloads count GitHub release assets only; source ZIP downloads and clones are excluded. Last commit refers to the default branch. Projects without releases may display zero or no release data. Badges are cached and periodically refreshed.</sub>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -99,8 +101,13 @@ architect:
       <p><code>Java</code> <code>DSL</code> <code>JSON</code> <code>Data Engineering</code></p>
       <a href="https://github.com/Vikram2921/Morphium">Explore Morphium</a>
       <br /><br />
-      <a href="https://github.com/Vikram2921/Morphium/stargazers"><img alt="Morphium stars" src="https://img.shields.io/github/stars/Vikram2921/Morphium?style=flat-square&amp;label=Stars&amp;color=276B80" /></a>
-      <a href="https://github.com/Vikram2921/Morphium/forks"><img alt="Morphium forks" src="https://img.shields.io/github/forks/Vikram2921/Morphium?style=flat-square&amp;label=Forks&amp;color=276B80" /></a>
+      <a href="https://github.com/Vikram2921/Morphium/stargazers"><img alt="Morphium Stars" src="https://img.shields.io/github/stars/Vikram2921/Morphium?style=flat-square&amp;label=Stars&amp;color=C28B36&amp;labelColor=172B46" /></a>
+      <a href="https://github.com/Vikram2921/Morphium/forks"><img alt="Morphium Forks" src="https://img.shields.io/github/forks/Vikram2921/Morphium?style=flat-square&amp;label=Forks&amp;color=276B80&amp;labelColor=172B46" /></a>
+      <br />
+      <a href="https://github.com/Vikram2921/Morphium/releases"><img alt="Morphium Downloads" src="https://img.shields.io/github/downloads/Vikram2921/Morphium/total?style=flat-square&amp;label=Downloads&amp;color=23856D&amp;labelColor=172B46" /></a>
+      <a href="https://github.com/Vikram2921/Morphium/releases"><img alt="Morphium Release" src="https://img.shields.io/github/v/release/Vikram2921/Morphium?style=flat-square&amp;label=Release&amp;color=276B80&amp;labelColor=172B46" /></a>
+      <br />
+      <a href="https://github.com/Vikram2921/Morphium/commits"><img alt="Morphium Last commit" src="https://img.shields.io/github/last-commit/Vikram2921/Morphium?style=flat-square&amp;label=Last%20commit&amp;color=276B80&amp;labelColor=172B46" /></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Vikram2921/DeskMind"><img alt="DeskMind" src="https://img.shields.io/badge/02-DESKMIND-276B80?style=for-the-badge&amp;labelColor=0D1117" /></a>
@@ -109,8 +116,13 @@ architect:
       <p><code>AI</code> <code>PKM</code> <code>Productivity</code> <code>Privacy</code></p>
       <a href="https://github.com/Vikram2921/DeskMind">Explore DeskMind</a>
       <br /><br />
-      <a href="https://github.com/Vikram2921/DeskMind/stargazers"><img alt="DeskMind stars" src="https://img.shields.io/github/stars/Vikram2921/DeskMind?style=flat-square&amp;label=Stars&amp;color=276B80" /></a>
-      <a href="https://github.com/Vikram2921/DeskMind/forks"><img alt="DeskMind forks" src="https://img.shields.io/github/forks/Vikram2921/DeskMind?style=flat-square&amp;label=Forks&amp;color=276B80" /></a>
+      <a href="https://github.com/Vikram2921/DeskMind/stargazers"><img alt="DeskMind Stars" src="https://img.shields.io/github/stars/Vikram2921/DeskMind?style=flat-square&amp;label=Stars&amp;color=C28B36&amp;labelColor=172B46" /></a>
+      <a href="https://github.com/Vikram2921/DeskMind/forks"><img alt="DeskMind Forks" src="https://img.shields.io/github/forks/Vikram2921/DeskMind?style=flat-square&amp;label=Forks&amp;color=276B80&amp;labelColor=172B46" /></a>
+      <br />
+      <a href="https://github.com/Vikram2921/DeskMind/releases"><img alt="DeskMind Downloads" src="https://img.shields.io/github/downloads/Vikram2921/DeskMind/total?style=flat-square&amp;label=Downloads&amp;color=23856D&amp;labelColor=172B46" /></a>
+      <a href="https://github.com/Vikram2921/DeskMind/releases"><img alt="DeskMind Release" src="https://img.shields.io/github/v/release/Vikram2921/DeskMind?style=flat-square&amp;label=Release&amp;color=276B80&amp;labelColor=172B46" /></a>
+      <br />
+      <a href="https://github.com/Vikram2921/DeskMind/commits"><img alt="DeskMind Last commit" src="https://img.shields.io/github/last-commit/Vikram2921/DeskMind?style=flat-square&amp;label=Last%20commit&amp;color=276B80&amp;labelColor=172B46" /></a>
     </td>
   </tr>
 </table>
@@ -119,12 +131,12 @@ architect:
   <summary><b>Other public repositories and learning resources</b></summary>
   <br />
 
-| Repository | What it contains |
-| :--- | :--- |
-| [xceler-ui](https://github.com/Vikram2921/xceler-ui) | TypeScript-based Nx workspace |
-| [ai-agents-for-beginners](https://github.com/Vikram2921/ai-agents-for-beginners) | Fork of Microsoft's AI agent learning resources |
-| [CommonGround](https://github.com/Vikram2921/CommonGround) | Fork of a collaborative AI agent project |
-| [build-your-own-x](https://github.com/Vikram2921/build-your-own-x) | Fork of hands-on software engineering resources |
+| Repository | What it contains | Stars / Forks | Downloads / Last commit |
+| :--- | :--- | :--- | :--- |
+| [xceler-ui](https://github.com/Vikram2921/xceler-ui) | TypeScript-based Nx workspace | <a href="https://github.com/Vikram2921/xceler-ui/stargazers"><img alt="xceler-ui Stars" src="https://img.shields.io/github/stars/Vikram2921/xceler-ui?style=flat-square&amp;label=Stars&amp;color=C28B36&amp;labelColor=172B46" /></a> <a href="https://github.com/Vikram2921/xceler-ui/forks"><img alt="xceler-ui Forks" src="https://img.shields.io/github/forks/Vikram2921/xceler-ui?style=flat-square&amp;label=Forks&amp;color=276B80&amp;labelColor=172B46" /></a> | <a href="https://github.com/Vikram2921/xceler-ui/releases"><img alt="xceler-ui Downloads" src="https://img.shields.io/github/downloads/Vikram2921/xceler-ui/total?style=flat-square&amp;label=Downloads&amp;color=23856D&amp;labelColor=172B46" /></a> <a href="https://github.com/Vikram2921/xceler-ui/commits"><img alt="xceler-ui Last commit" src="https://img.shields.io/github/last-commit/Vikram2921/xceler-ui?style=flat-square&amp;label=Last%20commit&amp;color=276B80&amp;labelColor=172B46" /></a> |
+| [ai-agents-for-beginners](https://github.com/Vikram2921/ai-agents-for-beginners) | Fork of Microsoft's AI agent learning resources | <a href="https://github.com/Vikram2921/ai-agents-for-beginners/stargazers"><img alt="ai-agents-for-beginners Stars" src="https://img.shields.io/github/stars/Vikram2921/ai-agents-for-beginners?style=flat-square&amp;label=Stars&amp;color=C28B36&amp;labelColor=172B46" /></a> <a href="https://github.com/Vikram2921/ai-agents-for-beginners/forks"><img alt="ai-agents-for-beginners Forks" src="https://img.shields.io/github/forks/Vikram2921/ai-agents-for-beginners?style=flat-square&amp;label=Forks&amp;color=276B80&amp;labelColor=172B46" /></a> | <a href="https://github.com/Vikram2921/ai-agents-for-beginners/releases"><img alt="ai-agents-for-beginners Downloads" src="https://img.shields.io/github/downloads/Vikram2921/ai-agents-for-beginners/total?style=flat-square&amp;label=Downloads&amp;color=23856D&amp;labelColor=172B46" /></a> <a href="https://github.com/Vikram2921/ai-agents-for-beginners/commits"><img alt="ai-agents-for-beginners Last commit" src="https://img.shields.io/github/last-commit/Vikram2921/ai-agents-for-beginners?style=flat-square&amp;label=Last%20commit&amp;color=276B80&amp;labelColor=172B46" /></a> |
+| [CommonGround](https://github.com/Vikram2921/CommonGround) | Fork of a collaborative AI agent project | <a href="https://github.com/Vikram2921/CommonGround/stargazers"><img alt="CommonGround Stars" src="https://img.shields.io/github/stars/Vikram2921/CommonGround?style=flat-square&amp;label=Stars&amp;color=C28B36&amp;labelColor=172B46" /></a> <a href="https://github.com/Vikram2921/CommonGround/forks"><img alt="CommonGround Forks" src="https://img.shields.io/github/forks/Vikram2921/CommonGround?style=flat-square&amp;label=Forks&amp;color=276B80&amp;labelColor=172B46" /></a> | <a href="https://github.com/Vikram2921/CommonGround/releases"><img alt="CommonGround Downloads" src="https://img.shields.io/github/downloads/Vikram2921/CommonGround/total?style=flat-square&amp;label=Downloads&amp;color=23856D&amp;labelColor=172B46" /></a> <a href="https://github.com/Vikram2921/CommonGround/commits"><img alt="CommonGround Last commit" src="https://img.shields.io/github/last-commit/Vikram2921/CommonGround?style=flat-square&amp;label=Last%20commit&amp;color=276B80&amp;labelColor=172B46" /></a> |
+| [build-your-own-x](https://github.com/Vikram2921/build-your-own-x) | Fork of hands-on software engineering resources | <a href="https://github.com/Vikram2921/build-your-own-x/stargazers"><img alt="build-your-own-x Stars" src="https://img.shields.io/github/stars/Vikram2921/build-your-own-x?style=flat-square&amp;label=Stars&amp;color=C28B36&amp;labelColor=172B46" /></a> <a href="https://github.com/Vikram2921/build-your-own-x/forks"><img alt="build-your-own-x Forks" src="https://img.shields.io/github/forks/Vikram2921/build-your-own-x?style=flat-square&amp;label=Forks&amp;color=276B80&amp;labelColor=172B46" /></a> | <a href="https://github.com/Vikram2921/build-your-own-x/releases"><img alt="build-your-own-x Downloads" src="https://img.shields.io/github/downloads/Vikram2921/build-your-own-x/total?style=flat-square&amp;label=Downloads&amp;color=23856D&amp;labelColor=172B46" /></a> <a href="https://github.com/Vikram2921/build-your-own-x/commits"><img alt="build-your-own-x Last commit" src="https://img.shields.io/github/last-commit/Vikram2921/build-your-own-x?style=flat-square&amp;label=Last%20commit&amp;color=276B80&amp;labelColor=172B46" /></a> |
 
 </details>
 
