@@ -16,7 +16,8 @@
   <a href="#02--engineering-focus">Engineering</a> &nbsp; / &nbsp;
   <a href="#03--technology-stack">Stack</a> &nbsp; / &nbsp;
   <a href="#04--selected-projects">Projects</a> &nbsp; / &nbsp;
-  <a href="#05--github-activity">Activity</a>
+  <a href="#05--web-applications">Web Apps</a> &nbsp; / &nbsp;
+  <a href="#06--github-activity">Activity</a>
 </div>
 
 ---
@@ -198,7 +199,27 @@ architect:
   <a href="https://github.com/Vikram2921?tab=repositories"><img alt="Browse all repositories" src="https://img.shields.io/badge/BROWSE_ALL_REPOSITORIES-172B46?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
 </div>
 
-## 05 / GitHub activity
+## 05 / Web applications
+
+<sub>Hosted projects and browser-based tools. Explore them directly without downloading an application.</sub>
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <a href="https://mocketeer.vercel.app/login"><img alt="Mocketeer" src="https://img.shields.io/badge/01-MOCKETEER-276B80?style=for-the-badge&amp;labelColor=0D1117" /></a>
+      <h3>Mocketeer</h3>
+      <p>A browser-based project exploring mock-driven development and testing workflows.</p>
+      <p><code>Web Application</code> <code>Developer Tools</code> <code>Vercel</code></p>
+      <a href="https://mocketeer.vercel.app/login"><img alt="Open Mocketeer" src="https://img.shields.io/badge/OPEN_WEB_APP-23856D?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=0D1117" /></a>
+      <br /><br />
+      <a href="https://mocketeer.vercel.app/login">mocketeer.vercel.app</a>
+      <br />
+      <sub>Sign-in required to access the application.</sub>
+    </td>
+  </tr>
+</table>
+
+## 06 / GitHub activity
 
 <!-- External statistics widgets may be delayed or temporarily unavailable. -->
 <div align="center">
